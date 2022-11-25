@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Achref1258
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Css+Html
-- 💞️ I’m looking to collaborate on programing
+- 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me achrefbouzidi89@gmail.com
 
 <!---
